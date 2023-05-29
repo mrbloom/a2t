@@ -1,0 +1,1 @@
+whisperls records ts small "--device cuda"
