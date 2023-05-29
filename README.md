@@ -1,0 +1,1 @@
+bat files for convert audio to text.
